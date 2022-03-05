@@ -1,3 +1,3 @@
-module github.com/cskr/pubsub
+module github.com/davyzhang/pubsub
 
 go 1.12
